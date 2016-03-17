@@ -10,7 +10,7 @@ $ npm install --save microsofthealth-lib
 ```
 ## Client API
 
-### Activity Measures
+### Microsoft cloud API endpoints
 
 #### MicrosoftHealth.getActivities(options, callback)
 The options is a `option` object, and the callback is of the form `function(err, data)`. The `data` is the activites done by the user.
