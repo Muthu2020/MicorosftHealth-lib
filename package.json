@@ -1,6 +1,6 @@
 {
   "name": "microsofthealth-lib",
-  "version": "2.14.0",
+  "version": "2.14.12",
   "description": "Microsoft API library for node.js ",
   "main": "lib/microsofthealth-lib.js",
   "scripts": {
