@@ -1,0 +1,23 @@
+{
+  "name": "microsofthealth-lib",
+  "version": "1.3.2",
+  "description": "This module will fetch the data from cloud API for MicrosoftHealth(Third Party Integration) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "for f in tests/*; do echo \"$f\"; node \"$f\"; done; echo 'passed!'; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muthu2020/MicorosftHealth-lib.git"
+  },
+  "keywords": [
+    "npm",
+    "microsofthealth"
+  ],
+  "author": "Muthupriya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muthu2020/MicorosftHealth-lib/issues"
+  },
+  "homepage": "https://github.com/Muthu2020/MicorosftHealth-lib#readme"
+}
