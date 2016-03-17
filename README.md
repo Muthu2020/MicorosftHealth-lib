@@ -1,9 +1,4 @@
 # MicorosftHealth-lib
-[![NPM][npm-image]][npm-url]
-
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
 
 Microsoft API library for node.js
 
@@ -13,3 +8,10 @@ Microsoft API library for node.js
 ```sh
 $ npm install --save microsofthealth-lib
 ```
+## Client API
+
+### Activity Measures
+
+#### Microsoft.getActivities(options, callback)
+The options is a `option` object, and the callback is of the form `function(err, data)`. The `data` is the activites done by the user has taken.
+
