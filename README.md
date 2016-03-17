@@ -11,5 +11,5 @@ Microsoft API library for node.js
 ## Install
 
 ```sh
-$ npm install --save withings-lib
+$ npm install --save microsofthealth-lib
 ```
